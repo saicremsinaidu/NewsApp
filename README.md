@@ -4,7 +4,7 @@
 
 ## Get Started
 
-install dev dependencies
+install all dev dependencies
 
 ### `npm install`
 
